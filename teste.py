@@ -11,7 +11,8 @@ class Teste:
 
 def main():
     t = Teste()
-    t.qualidades()
+    s = t.qualidades()
+    print(s)
 
 
 if __name__ == "__main__":
